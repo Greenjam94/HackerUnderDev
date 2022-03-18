@@ -1,0 +1,11 @@
+baseURL: https://www.hackerunder.dev
+languageCode: en-us
+title: Hacker Under Dev
+theme: ananke
+
+SectionPagesMenu: main
+
+params:
+  ananke_socials:
+    - name: twitter
+    - url: https://twitter.com/hackerunderdev
