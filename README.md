@@ -10,10 +10,11 @@
 ## Create a new post
 
 - Create a post in content/posts
-  - Filename format YYYY-MM-DD-short-name.md
+  - Filename format: YYYY-MM-DD-short-name.md
 - Fill in top section
 - Write post in markdown format
 - Save it, git commit, push,
+  - Git commit format (Posts only): YYYY-MM-DD Add,Edit,Remove short-name
 
 ```
 ---
