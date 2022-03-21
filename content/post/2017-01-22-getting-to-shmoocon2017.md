@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2017-01-22T19:42:01Z"
-guid: https://blog.greenjam94.me/?p=530
+guid: https://hackerunder.dev/?p=530
 id: 530
 tags:
 - blog.greenjam94.me import
@@ -33,7 +33,7 @@ I overheard @lintle mention md5 hashes so I looked that up next. It’s safe to 
 
 While I was desperately googling for online hash cracking websites, I reached out to a experienced friend who would know where to start. My googling skills failed me, but [@ashioni](https://twitter.com/ashioni) did not. He was able to get on his laptop and start up hashcat to start guessing strings that would result in a matching hash.
 
-<figure aria-describedby="caption-attachment-532" class="wp-caption alignright" id="attachment_532" style="width: 300px">[![Lintile's tweet with the encoded hash](https://blog.greenjam94.me/wp-content/uploads/2017/01/Screen-Shot-2017-01-22-at-5.35.15-PM-300x112.png)](https://blog.greenjam94.me/wp-content/uploads/2017/01/Screen-Shot-2017-01-22-at-5.35.15-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-532">The hash that started it all and the first hint.</figcaption></figure>
+<figure aria-describedby="caption-attachment-532" class="wp-caption alignright" id="attachment_532" style="width: 300px">[![Lintile's tweet with the encoded hash](https://hackerunder.dev/wp-content/uploads/2017/01/Screen-Shot-2017-01-22-at-5.35.15-PM-300x112.png)](https://hackerunder.dev/wp-content/uploads/2017/01/Screen-Shot-2017-01-22-at-5.35.15-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-532">The hash that started it all and the first hint.</figcaption></figure>
 
 We came to the correct answer by using OSINT research.
 
@@ -43,7 +43,7 @@ OpenSource Intelligence leverages publicly available information, in this case @
 
 I woke up the next morning and struggled to think what else I could do. @Ashioni had started up his password cracking rig that can do roughly 10 billion MD5 bruteforce attempts per second. Yet still no luck. I wanted to help, but I didn’t have hashcat on my mac or a connection to download the tool. While trying to think what else was possible; I was lucky to find out that it’s possible to hash strings using terminal on mac.
 
-<figure aria-describedby="caption-attachment-531" class="wp-caption alignleft" id="attachment_531" style="width: 300px">[![terminal output from hashing strings](https://blog.greenjam94.me/wp-content/uploads/2017/01/Screen-Shot-2017-01-13-at-1.43.30-PM-300x123.png)](https://blog.greenjam94.me/wp-content/uploads/2017/01/Screen-Shot-2017-01-13-at-1.43.30-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-531">These are some of my guesses.. The last hash on the bottom is the hash from the challenge.</figcaption></figure>
+<figure aria-describedby="caption-attachment-531" class="wp-caption alignleft" id="attachment_531" style="width: 300px">[![terminal output from hashing strings](https://hackerunder.dev/wp-content/uploads/2017/01/Screen-Shot-2017-01-13-at-1.43.30-PM-300x123.png)](https://hackerunder.dev/wp-content/uploads/2017/01/Screen-Shot-2017-01-13-at-1.43.30-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-531">These are some of my guesses.. The last hash on the bottom is the hash from the challenge.</figcaption></figure>
 
 I started guessing random 4 letter works that @lintile might have used. Failure after failure, the hashes I made didn’t match. Free, move, goto, tick, cryp… none of them were working. It wasn’t until I checked @lintile’s Twitter again that I thought to use his handle truncated to 4 letters. the hash of “lint@shmoo” was as close as I got to matching the hash, but I had a “off by one” error. The last character of the hashes didn’t match. I tried capitalizing the L, I tried “tile” and other combinations of @lintile. Each of those created hashes with entirely different hashes. Nothing was as close of a match as “lint@shmoo”. When talking to @ashioni about the cracking rig not being able to find a match and my guess being so close. We though that using CTRL-C to copy may have been the culprit for the spelling error.
 

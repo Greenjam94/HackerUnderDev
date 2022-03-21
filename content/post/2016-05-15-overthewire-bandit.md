@@ -5,7 +5,7 @@ categories:
 ct_period_last_updated:
 - default
 date: "2016-05-15T11:30:55Z"
-guid: https://blog.greenjam94.me/?p=333
+guid: https://hackerunder.dev/?p=333
 id: 333
 tags:
 - blog.greenjam94.me import
@@ -45,4 +45,4 @@ There are 27 lessons in Bandit, it took our group 8 hours to casually and thorou
 
 Lastly, I want to give a shout out to [@Ashioni](https://twitter.com/Ashioni), [@JadedTreeBeard](https://twitter.com/jadedtreebeard), [@bigryanb](https://twitter.com/bigryanb), [@EquinchOcha](https://twitter.com/EquincuOcha) and the other hackers in my group who’s twitter handles I do not know… It’s because of them I had such a fun time instead of pulling my hair out when I got stuck on lesson 28. If you are in the Michigan area, you seriously need to look up [\#misec](https://misec.us), it’s a great group of people. Reach out to [@Ashioni](https://twitter.com/Ashioni), he frequently puts on events like this to help others learn hacking skills.
 
-After you’ve conquered Bandit, move on to the next level: [Leviathan](https://blog.greenjam94.me/overthewire-leviathan/). I suggest trying Bandit in a group with other people, but Leviathan should be pretty tame and is a good way to test your individual skills.
+After you’ve conquered Bandit, move on to the next level: [Leviathan](https://hackerunder.dev/overthewire-leviathan/). I suggest trying Bandit in a group with other people, but Leviathan should be pretty tame and is a good way to test your individual skills.

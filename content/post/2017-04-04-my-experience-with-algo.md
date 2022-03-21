@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2017-04-04T23:33:55Z"
-guid: https://blog.greenjam94.me/?p=545
+guid: https://hackerunder.dev/?p=545
 id: 545
 tags:
 - blog.greenjam94.me import
@@ -17,7 +17,7 @@ First off, I don’t know if you’ve been avoiding the political storm as much 
 
 [ISPs are able to sell your data](https://www.usatoday.com/story/tech/news/2017/04/04/isps-can-now-collect-and-sell-your-data-what-know-internet-privacy/100015356/). While it is possible that similar data is already being collected and used by social media, applications, and other providers… It’s brought up an interesting conversation about how to secure ourselves while browsing the internet.
 
-Using [TLS](https://blog.greenjam94.me/tls-what-is-it-and-why-it-matters/) to encrypting the communication between a client and server is a good way to secure the content between you and a website. However what about your destination, ip address, and other information that’s required to connect to that server? Virtual private networks (VPNs) have been used by corporations and security focused individuals for years. Lately VPNs are the center of attention because they offer a way to encrypt information about your host and prevent your real location from being collected. To learn more about what a VPN is, check out <https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/>.
+Using [TLS](https://hackerunder.dev/tls-what-is-it-and-why-it-matters/) to encrypting the communication between a client and server is a good way to secure the content between you and a website. However what about your destination, ip address, and other information that’s required to connect to that server? Virtual private networks (VPNs) have been used by corporations and security focused individuals for years. Lately VPNs are the center of attention because they offer a way to encrypt information about your host and prevent your real location from being collected. To learn more about what a VPN is, check out <https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/>.
 
 ## A Solution
 
@@ -31,7 +31,7 @@ Following the [README.md](https://github.com/trailofbits/algo) of the Algo githu
 
 I cloned the repo onto my mac, installed the python dependencies and only had one [hiccup](https://github.com/trailofbits/algo/issues/351). On a mac, you need to have Xcode installed and agree to the license. All of the files required to setup the VPN clients are saved to the config folder after running the script. To connect my mac, all I had to do was double click the &lt;username&gt;.mobileconfig file and everything was fully setup.
 
-[![](https://blog.greenjam94.me/wp-content/uploads/2017/04/Screen-Shot-2017-04-04-at-10.43.10-PM-300x109.png)](https://blog.greenjam94.me/wp-content/uploads/2017/04/Screen-Shot-2017-04-04-at-10.43.10-PM.png)
+[![](https://hackerunder.dev/wp-content/uploads/2017/04/Screen-Shot-2017-04-04-at-10.43.10-PM-300x109.png)](https://hackerunder.dev/wp-content/uploads/2017/04/Screen-Shot-2017-04-04-at-10.43.10-PM.png)
 
 I’ll have to update this post as I setup my other devices. Windows computers and Android phones are on my to do list.
 

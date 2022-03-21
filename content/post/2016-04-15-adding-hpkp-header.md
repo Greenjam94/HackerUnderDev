@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2016-04-15T08:00:25Z"
-guid: https://blog.greenjam94.me/?p=299
+guid: https://hackerunder.dev/?p=299
 id: 299
 tags:
 - blog.greenjam94.me import
@@ -22,7 +22,7 @@ The required parts are pin-sha256, and max-age. The pin is where you add the act
 
 ## Getting a pin
 
-In order to get a pin, you first need a certificate. So make sure you have TLS enabled on your site. Basically, you need to make sure **https**://your-website works and you get the green lock. An easy way to get TLS set up is [Let’s Encrypt](https://letsencrypt.org/), I wrote about that in my[ TLS blog post](https://blog.greenjam94.me/tls-what-is-it-and-why-it-matters/) a few months ago, scroll to the Try it! section. Once you have a certificate, you have two choices. First, you can use a [nice tool](https://report-uri.io/home/pkp_hash) and grab the pin generated for you (don’t worry, you’ll be sending this hash to everyone anyways, it’s ok if someone else generates it for you… as long as it’s valid). All you have to do is type in your website’s domain / URL into the tool.
+In order to get a pin, you first need a certificate. So make sure you have TLS enabled on your site. Basically, you need to make sure **https**://your-website works and you get the green lock. An easy way to get TLS set up is [Let’s Encrypt](https://letsencrypt.org/), I wrote about that in my[ TLS blog post](https://hackerunder.dev/tls-what-is-it-and-why-it-matters/) a few months ago, scroll to the Try it! section. Once you have a certificate, you have two choices. First, you can use a [nice tool](https://report-uri.io/home/pkp_hash) and grab the pin generated for you (don’t worry, you’ll be sending this hash to everyone anyways, it’s ok if someone else generates it for you… as long as it’s valid). All you have to do is type in your website’s domain / URL into the tool.
 
 The other option is to use openssl on your server to encode and hash the value yourself. First you need to find the certificate. Since I use Let’s Encrypt. Mine was in /etc/le and called private.pem. All you need to do from there is run the command below:
 
@@ -70,7 +70,7 @@ sudo **service apache2 restart**
 
 Your header should be there, if everything works well, your browser won’t yell at you about your website. Nothing will change, yay you’re done! But wait, how do we know? Well.. seeing that the pin is there is easy, check your request headers and you can see the pin. Or use another [report-uri tool](https://report-uri.io/home/pkp_analyse) that tells if the hash is valid and that you have your backup pin available.
 
-<figure aria-describedby="caption-attachment-302" class="wp-caption aligncenter" id="attachment_302" style="width: 570px">[![HPKP header results](https://blog.greenjam94.me/wp-content/uploads/2016/04/Header-1.png)](https://blog.greenjam94.me/wp-content/uploads/2016/04/Header-1.png)<figcaption class="wp-caption-text" id="caption-attachment-302">Results from tool after HPKP header has been added</figcaption></figure>
+<figure aria-describedby="caption-attachment-302" class="wp-caption aligncenter" id="attachment_302" style="width: 570px">[![HPKP header results](https://hackerunder.dev/wp-content/uploads/2016/04/Header-1.png)](https://hackerunder.dev/wp-content/uploads/2016/04/Header-1.png)<figcaption class="wp-caption-text" id="caption-attachment-302">Results from tool after HPKP header has been added</figcaption></figure>
 
 ## Final Comments
 

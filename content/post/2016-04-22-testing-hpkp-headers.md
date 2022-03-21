@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2016-04-22T07:00:44Z"
-guid: https://blog.greenjam94.me/?p=321
+guid: https://hackerunder.dev/?p=321
 id: 321
 tags:
 - blog.greenjam94.me import
@@ -30,7 +30,7 @@ What did seem to work was setting Chrome’s expected value to a false pin, and 
 - Go to your domain
 - You should see an error message like the one below.
 
-<figure aria-describedby="caption-attachment-322" class="wp-caption aligncenter" id="attachment_322" style="width: 595px">[![Chrome error message from testing HPKP](https://blog.greenjam94.me/wp-content/uploads/2016/04/Screen-Shot-2016-04-19-at-1.33.19-PM.png)](https://blog.greenjam94.me/wp-content/uploads/2016/04/Screen-Shot-2016-04-19-at-1.33.19-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-322">Error message from testing HPKP</figcaption></figure>
+<figure aria-describedby="caption-attachment-322" class="wp-caption aligncenter" id="attachment_322" style="width: 595px">[![Chrome error message from testing HPKP](https://hackerunder.dev/wp-content/uploads/2016/04/Screen-Shot-2016-04-19-at-1.33.19-PM.png)](https://hackerunder.dev/wp-content/uploads/2016/04/Screen-Shot-2016-04-19-at-1.33.19-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-322">Error message from testing HPKP</figcaption></figure>
 
 This works for testing it from one application. What about other browsers like Firefox?
 

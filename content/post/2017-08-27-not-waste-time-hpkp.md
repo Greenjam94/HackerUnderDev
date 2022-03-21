@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2017-08-27T20:53:22Z"
-guid: https://blog.greenjam94.me/?p=614
+guid: https://hackerunder.dev/?p=614
 id: 614
 tags:
 - blog.greenjam94.me import
@@ -15,9 +15,9 @@ This is my last post related to HTTP Public Key Pinning (HPKP). This is a post i
 
 In the past I’ve written three articles about the HPKP header:
 
-- [Testing HPKP headers](https://blog.greenjam94.me/testing-hpkp-headers/)
-- [Adding HPKP headers](https://blog.greenjam94.me/adding-hpkp-header/)
-- [HPKP.. Public Key Pinning?](https://blog.greenjam94.me/hpkp/)
+- [Testing HPKP headers](https://hackerunder.dev/testing-hpkp-headers/)
+- [Adding HPKP headers](https://hackerunder.dev/adding-hpkp-header/)
+- [HPKP.. Public Key Pinning?](https://hackerunder.dev/hpkp/)
 
 The point of each of these articles are pretty well summed up in their titles. For work, I was tasked with learning about HPKP and of course I made blog posts as I tired out the new header.
 

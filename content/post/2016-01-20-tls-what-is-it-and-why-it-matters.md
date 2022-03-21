@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2016-01-20T15:21:16Z"
-guid: https://blog.greenjam94.me/?p=238
+guid: https://hackerunder.dev/?p=238
 id: 238
 tags:
 - blog.greenjam94.me import
@@ -25,7 +25,7 @@ TLS encryption is a complex combination of keys, certificates, and ciphers… I�
 
 Have you ever looked at a packet as it goes across your network? If not, I suggest looking at [mitmproxy](https://mitmproxy.org/). A quick rundown for the non-network people. A request over regular unencrypted HTTP traffic is visible to everyone on the network, a hacker can grab all of the information in your request, like your password, user tokens, credit card, email address, etc. An example of a HTTP request is below from [shakedos](http://www.shakedos.com/2013/Nov/23/tinder-privacy-issues.html).
 
-<figure aria-describedby="caption-attachment-239" class="wp-caption alignright" id="attachment_239" style="width: 300px">![Lack of TLS reveals auth token](https://blog.greenjam94.me/wp-content/uploads/2016/01/mitmproxy-tinder-token-9-300x134.png)<figcaption class="wp-caption-text" id="caption-attachment-239">http://www.shakedos.com/2013/Nov/23/tinder-privacy-issues.html</figcaption></figure>
+<figure aria-describedby="caption-attachment-239" class="wp-caption alignright" id="attachment_239" style="width: 300px">![Lack of TLS reveals auth token](https://hackerunder.dev/wp-content/uploads/2016/01/mitmproxy-tinder-token-9-300x134.png)<figcaption class="wp-caption-text" id="caption-attachment-239">http://www.shakedos.com/2013/Nov/23/tinder-privacy-issues.html</figcaption></figure>
 
 This is mitmproxy catching a pair of authorization tokens for the Tinder “dating” app. Now that the hacker has your auth token, they can inject it into their own request and gain access to your account. This is one example why it’s dangerous to send sensitive or private information over encrypted channels. So to protect your user’s information, encrypt your traffic! If this was all sent over HTTPS using TLS, then the information would not be decipherable without the client’s key.
 

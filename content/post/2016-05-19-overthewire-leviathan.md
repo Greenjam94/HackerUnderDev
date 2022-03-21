@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Walkthroughs
 date: "2016-05-19T09:55:36Z"
-guid: https://blog.greenjam94.me/?p=352
+guid: https://hackerunder.dev/?p=352
 id: 352
 tags:
 - blog.greenjam94.me import
@@ -11,11 +11,11 @@ title: 'OverTheWire: Leviathan'
 url: /overthewire-leviathan/
 ---
 
-Hello everyone, thanks for looking at my last post about [OverTheWire: Bandit](https://blog.greenjam94.me/overthewire-bandit/). Since my traffic is about x10 my average consistently for the last four days, I wanted to write a follow up post about the next wargame offered by OverTheWire, [Leviathan](http://overthewire.org/wargames/leviathan/).
+Hello everyone, thanks for looking at my last post about [OverTheWire: Bandit](https://hackerunder.dev/overthewire-bandit/). Since my traffic is about x10 my average consistently for the last four days, I wanted to write a follow up post about the next wargame offered by OverTheWire, [Leviathan](http://overthewire.org/wargames/leviathan/).
 
 All over the exercises, they say to not post walkthroughs or writeups, so I won’t. I will do my best to promote the project without giving away the important stuff. If you’ve done the Bandit challenge already with or without a group, I suggest trying Leviathan on your own. Leviathan only has 7 levels, which by myself, took me just under 2 hours.
 
-<figure aria-describedby="caption-attachment-353" class="wp-caption aligncenter" id="attachment_353" style="width: 642px">[![Leviathan Lv7 end messafe](https://blog.greenjam94.me/wp-content/uploads/2016/05/Screen-Shot-2016-05-19-at-9.21.10-AM.png)](https://blog.greenjam94.me/wp-content/uploads/2016/05/Screen-Shot-2016-05-19-at-9.21.10-AM.png)<figcaption class="wp-caption-text" id="caption-attachment-353">Just to prove I made it through the lessons!</figcaption></figure>
+<figure aria-describedby="caption-attachment-353" class="wp-caption aligncenter" id="attachment_353" style="width: 642px">[![Leviathan Lv7 end messafe](https://hackerunder.dev/wp-content/uploads/2016/05/Screen-Shot-2016-05-19-at-9.21.10-AM.png)](https://hackerunder.dev/wp-content/uploads/2016/05/Screen-Shot-2016-05-19-at-9.21.10-AM.png)<figcaption class="wp-caption-text" id="caption-attachment-353">Just to prove I made it through the lessons!</figcaption></figure>
 
 ## Shh, don’t tell, here are some tips
 

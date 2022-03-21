@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2017-05-25T17:49:12Z"
-guid: https://blog.greenjam94.me/?p=596
+guid: https://hackerunder.dev/?p=596
 id: 596
 tags:
 - blog.greenjam94.me import
@@ -19,7 +19,7 @@ Before I tell you more about the tool and how it can be used, I have to throw ou
 
 ## Setup
 
-If you don’t have a personal WordPress instance to test, then look at getting [OWASP’s Broken Web App installed](https://blog.greenjam94.me/installing-owasp-bwa/). It has a vulnerable instance of WordPress included that you can scan against and even try to harden. When things break, just reinstall the VM and start over from scratch.
+If you don’t have a personal WordPress instance to test, then look at getting [OWASP’s Broken Web App installed](https://hackerunder.dev/installing-owasp-bwa/). It has a vulnerable instance of WordPress included that you can scan against and even try to harden. When things break, just reinstall the VM and start over from scratch.
 
 I have a Kali VM installed on most of my computers. By opening a terminal and typing **wpscan -h** you can learn about all of the options and possibilities for how to scan a WordPress instance. If you want to avoid all the “bells and whistles” then just run **wpscan –url &lt;target&gt; –enumerate p** to scan and try to find vulnerable plugins.
 
@@ -37,4 +37,4 @@ The reason I’m not afraid to tell all you hackers about this is because I was 
 
 Edit: A swapfile is NOT recommended for preventing DoS resulting from scans or a spike in traffic. This is a quick fix and a cheap band aid. If your company uses WordPress or you have a personal blog thats getting a lot of traffic, upgrade the VM or migrate to a better server that can handle the requirements. This was pointed out to me when I first heard of using a swapfile and again on Twitter after posting this.
 
-<figure aria-describedby="caption-attachment-601" class="wp-caption aligncenter" id="attachment_601" style="width: 300px">[![](https://blog.greenjam94.me/wp-content/uploads/2017/05/Screen-Shot-2017-06-05-at-9.26.06-PM-300x74.png)](https://blog.greenjam94.me/wp-content/uploads/2017/05/Screen-Shot-2017-06-05-at-9.26.06-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-601">Twitter reply</figcaption></figure>
+<figure aria-describedby="caption-attachment-601" class="wp-caption aligncenter" id="attachment_601" style="width: 300px">[![](https://hackerunder.dev/wp-content/uploads/2017/05/Screen-Shot-2017-06-05-at-9.26.06-PM-300x74.png)](https://hackerunder.dev/wp-content/uploads/2017/05/Screen-Shot-2017-06-05-at-9.26.06-PM.png)<figcaption class="wp-caption-text" id="caption-attachment-601">Twitter reply</figcaption></figure>

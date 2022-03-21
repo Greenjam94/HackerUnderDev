@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2016-12-01T23:22:44Z"
-guid: https://blog.greenjam94.me/?p=435
+guid: https://hackerunder.dev/?p=435
 id: 435
 tags:
 - blog.greenjam94.me import
@@ -31,7 +31,7 @@ A lot of MiSec members prefer to stay on IRC. In an attempt to accommodate their
 
 So I found an alternative with the help of some MiSec friends. Another Github project called [slack-irc](https://github.com/ekmartin/slack-irc). The bot uses nodeJS to run, so hopefully anyone attempting this themselves have some experience with npm. Slack-irc made it possible to set up a slack bot that integrates with another IRC channel. So now #misec is in misec.slack.com’s #general channel and vice versa.
 
-<figure aria-describedby="caption-attachment-440" class="wp-caption aligncenter" id="attachment_440" style="width: 944px">[![Demo from GitHub, show's how it looks for each client.](https://blog.greenjam94.me/wp-content/uploads/2016/12/slack-ircDemo.gif)](https://blog.greenjam94.me/wp-content/uploads/2016/12/slack-ircDemo.gif)<figcaption class="wp-caption-text" id="caption-attachment-440">Demo from GitHub, show’s how it looks for each client.</figcaption></figure>
+<figure aria-describedby="caption-attachment-440" class="wp-caption aligncenter" id="attachment_440" style="width: 944px">[![Demo from GitHub, show's how it looks for each client.](https://hackerunder.dev/wp-content/uploads/2016/12/slack-ircDemo.gif)](https://hackerunder.dev/wp-content/uploads/2016/12/slack-ircDemo.gif)<figcaption class="wp-caption-text" id="caption-attachment-440">Demo from GitHub, show’s how it looks for each client.</figcaption></figure>
 
 ## Becoming a Slacker
 
