@@ -12,7 +12,7 @@ tags:
 - kali
 - python3
 - web server
-title: What&#8217;s Updog?
+title: What is Updog?
 url: /whats-updog/
 ---
 

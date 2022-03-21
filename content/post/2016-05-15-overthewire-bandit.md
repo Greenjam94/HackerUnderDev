@@ -8,6 +8,7 @@ date: "2016-05-15T11:30:55Z"
 guid: https://hackerunder.dev/?p=333
 id: 333
 tags:
+- OverTheWire
 - blog.greenjam94.me import
 title: 'OverTheWire: Bandit'
 url: /overthewire-bandit/
