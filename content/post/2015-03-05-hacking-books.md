@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2015-03-05T14:08:41Z"
-guid: http://blog.greenjam94.me/?p=63
+guid: https://hackerunder.dev/?p=63
 id: 63
 tags:
 - blog.greenjam94.me import
@@ -11,7 +11,7 @@ title: Read a book!
 url: /hacking-books/
 ---
 
-[![books](http://blog.greenjam94.me/wp-content/uploads/2015/03/books-300x169.jpg)](http://blog.greenjam94.me/wp-content/uploads/2015/03/books.jpg)
+[![books](https://hackerunder.dev/wp-content/uploads/2015/03/books-300x169.jpg)](https://hackerunder.dev/wp-content/uploads/2015/03/books.jpg)
 
 **How do you learn to hack? Read a book!**  
 Here are the books I have shown:  

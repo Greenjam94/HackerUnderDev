@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2015-12-18T15:55:51Z"
-guid: http://blog.greenjam94.me/?p=224
+guid: https://hackerunder.dev/?p=224
 id: 224
 tags:
 - blog.greenjam94.me import
@@ -13,7 +13,7 @@ xyz_smap:
 - "1"
 ---
 
-Who likes honey? I know I do. Unfortunately Cowrie isn’t the like of honeypot you might imagine. Instead of thinking source of deliciousness, think something y![Winnie the pooh](http://blog.greenjam94.me/wp-content/uploads/2015/12/PoohHoneypot-300x224.gif)ou will get your hand stuck in. In security terms a [Honeypot](https://www.sans.org/security-resources/idfaq/honeypot3.php) is where a system is set up to record everything that’s going on. In those terms, cowrie is a SSH monitor that tracks everything that happens over an ssh connection.
+Who likes honey? I know I do. Unfortunately Cowrie isn’t the like of honeypot you might imagine. Instead of thinking source of deliciousness, think something y![Winnie the pooh](https://hackerunder.dev/wp-content/uploads/2015/12/PoohHoneypot-300x224.gif)ou will get your hand stuck in. In security terms a [Honeypot](https://www.sans.org/security-resources/idfaq/honeypot3.php) is where a system is set up to record everything that’s going on. In those terms, cowrie is a SSH monitor that tracks everything that happens over an ssh connection.
 
 This is a project that I started with [@Taco\_Pirate](https://twitter.com/taco_pirate). He had a digital ocean VM that he wasn’t using and we decided to turn that into a honeypot of some sort. At first we were going to use Kippo, but after reading though some of the wiki we found that Cowrie is just newer and more updated flavor of Kippo.
 

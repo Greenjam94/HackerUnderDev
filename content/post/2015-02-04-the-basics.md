@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2015-02-04T04:52:04Z"
-guid: http://blog.greenjam94.me/?p=24
+guid: https://hackerunder.dev/?p=24
 id: 24
 tags:
 - blog.greenjam94.me import

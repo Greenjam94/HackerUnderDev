@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2015-08-13T08:54:41Z"
-guid: http://blog.greenjam94.me/?p=114
+guid: https://hackerunder.dev/?p=114
 id: 114
 tags:
 - blog.greenjam94.me import
@@ -13,7 +13,7 @@ xyz_smap:
 - "1"
 ---
 
-[![jHipster logo](http://blog.greenjam94.me/wp-content/uploads/2015/08/logo-jhipster-196x300.png)](http://blog.greenjam94.me/wp-content/uploads/2015/08/logo-jhipster.png)Who likes Angular? A JS library that is all about load a page once and get a dynamic website. Who likes Node JS? A server written in javascript. Who likes scripts that write code for you? Hello Yeoman!
+[![jHipster logo](https://hackerunder.dev/wp-content/uploads/2015/08/logo-jhipster-196x300.png)](https://hackerunder.dev/wp-content/uploads/2015/08/logo-jhipster.png)Who likes Angular? A JS library that is all about load a page once and get a dynamic website. Who likes Node JS? A server written in javascript. Who likes scripts that write code for you? Hello Yeoman!
 
 The first time I used Jhpister was for a innovation project that maps out the office seating. This is a great internal tool since we have an entire floor of developers and finding the third “John Smith” is kind of annoying. So our office mapper was born.
 

@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2015-01-22T04:33:10Z"
-guid: http://blog.greenjam94.me/?p=17
+guid: https://hackerunder.dev/?p=17
 id: 17
 tags:
 - blog.greenjam94.me import
@@ -11,7 +11,7 @@ title: Blackhat Movie with Chris Hemsworth
 url: /blackhat-movie/
 ---
 
-[![blackhat-hemsworth-mann](http://blog.greenjam94.me/wp-content/uploads/2015/03/blackhat-hemsworth-mann-300x209.jpg)](http://blog.greenjam94.me/wp-content/uploads/2015/03/blackhat-hemsworth-mann.jpg)
+[![blackhat-hemsworth-mann](https://hackerunder.dev/wp-content/uploads/2015/03/blackhat-hemsworth-mann-300x209.jpg)](https://hackerunder.dev/wp-content/uploads/2015/03/blackhat-hemsworth-mann.jpg)
 
 Who’s excited for the next Chris Hemsworth movie coming out Friday January 16th?!? He’s trading in his hammer for a laptop in this up and coming action packed thriller.
 
@@ -21,4 +21,4 @@ In fact, a movie like this is what first got me interested in finding a job with
 
 My favorite hacking movie would be *Live Free or Die Hard*. I liked the idea of a “fire sale” attack. Remotely controlling utilities, communication, and the stock market. While this isn’t really doable in the real world. It’s fun to think about what really is possible!
 
-![Kevin_Smith_002](http://blog.greenjam94.me/wp-content/uploads/2015/03/Kevin_Smith_002-300x169.jpg)
+![Kevin_Smith_002](https://hackerunder.dev/wp-content/uploads/2015/03/Kevin_Smith_002-300x169.jpg)

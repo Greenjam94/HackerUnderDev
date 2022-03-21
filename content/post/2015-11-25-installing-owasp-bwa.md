@@ -3,7 +3,7 @@ author: Greenjam94
 categories:
 - Uncategorized
 date: "2015-11-25T20:33:44Z"
-guid: http://blog.greenjam94.me/?p=186
+guid: https://hackerunder.dev/?p=186
 id: 186
 tags:
 - blog.greenjam94.me import
@@ -33,15 +33,15 @@ For a mac, go to the app store and download The Unarchiver, a free app to extrac
 
 Once everything is installed, run VirtualBox, and click File &gt; Import Application. You will choose the files that you just downloaded from the links above. The default settings that come from the app should appear and you can click ok.
 
-<figure aria-describedby="caption-attachment-188" class="wp-caption aligncenter" id="attachment_188" style="width: 300px">[![BWA Virtual Machine](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_25_41-300x227.png)](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_25_41.png)<figcaption class="wp-caption-text" id="caption-attachment-188">Once the VM is fully installed. VirtualBox should look like this.</figcaption></figure>
+<figure aria-describedby="caption-attachment-188" class="wp-caption aligncenter" id="attachment_188" style="width: 300px">[![BWA Virtual Machine](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_25_41-300x227.png)](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_25_41.png)<figcaption class="wp-caption-text" id="caption-attachment-188">Once the VM is fully installed. VirtualBox should look like this.</figcaption></figure>
 
 After you see a new Virtual Machine available, you’ll want to check and make sure it you can access it from either your Kali VM or your actual machine. To do this you can set up either a NAT network or a Host-only Adapter for the VM. I choose to do Host-only but either will work as long as you configure it correctly. Go to File &gt; Preferences. On the left sidebar click Network. There you’ll see tabs for NAT and Host-only. Pick one, there will be three buttons on the right, click the one with the + icon. That will add a new network for your VM to use. Hit OK to go back to the main page of the app.
 
-<figure aria-describedby="caption-attachment-189" class="wp-caption aligncenter" id="attachment_189" style="width: 300px">[![Network Settings](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_46-300x236.png)](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_46.png)<figcaption class="wp-caption-text" id="caption-attachment-189">Add a new NAT network or Host-only network to VirtualBox</figcaption></figure>
+<figure aria-describedby="caption-attachment-189" class="wp-caption aligncenter" id="attachment_189" style="width: 300px">[![Network Settings](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_46-300x236.png)](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_46.png)<figcaption class="wp-caption-text" id="caption-attachment-189">Add a new NAT network or Host-only network to VirtualBox</figcaption></figure>
 
 Go to your VM’s setting by clicking to select it, then hit the big settings button above it. Go to Networks, then select the network type you just made and be sure the network is correct then hit ok for everything.
 
-<figure aria-describedby="caption-attachment-190" class="wp-caption aligncenter" id="attachment_190" style="width: 300px">[![VM network settings](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_19-300x230.png)](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_19.png)<figcaption class="wp-caption-text" id="caption-attachment-190">Change the network settings for the BWA VM</figcaption></figure>
+<figure aria-describedby="caption-attachment-190" class="wp-caption aligncenter" id="attachment_190" style="width: 300px">[![VM network settings](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_19-300x230.png)](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_26_19.png)<figcaption class="wp-caption-text" id="caption-attachment-190">Change the network settings for the BWA VM</figcaption></figure>
 
 ## Start up the BWA
 
@@ -49,4 +49,4 @@ Run the VM! This should go without a hitch, the VM should start up in a new wind
 
 To make it easier for future use, you can edit the hosts file on your main computer to accept a url instead of an IP address. On linux or a mac, open a terminal and write **sudo nano /etc/hosts** and add the line **192.XXX.XXX.XXX owaspbwa.com**. That’s a tab between the IP Address and the url. The URL can be whatever you want if you don’t like owaspbwa.com. Change the IP Address in the browser and replace it with the new url. If that doesn’t work, try restarting the browser and try again.
 
-<figure aria-describedby="caption-attachment-191" class="wp-caption aligncenter" id="attachment_191" style="width: 474px">[![BWA homepage](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_29_13-1024x576.png)](http://blog.greenjam94.me/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_29_13.png)<figcaption class="wp-caption-text" id="caption-attachment-191">This is the first page of the OWASP BWA project</figcaption></figure>
+<figure aria-describedby="caption-attachment-191" class="wp-caption aligncenter" id="attachment_191" style="width: 474px">[![BWA homepage](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_29_13-1024x576.png)](https://hackerunder.dev/wp-content/uploads/2015/11/Screenshot-from-2015-11-25-19_29_13.png)<figcaption class="wp-caption-text" id="caption-attachment-191">This is the first page of the OWASP BWA project</figcaption></figure>
