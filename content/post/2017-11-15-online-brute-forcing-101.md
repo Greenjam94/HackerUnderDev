@@ -1,17 +1,18 @@
 ---
 author: Greenjam94
 categories:
-- Exploitation
+- PTES
 date: "2017-11-15T17:51:14Z"
 guid: https://hackerunder.dev/?p=646
 id: 646
 tags:
-- blog.greenjam94.me import
+- Exploitation
+
 title: Online Brute Forcing 101
 url: /online-brute-forcing-101/
 ---
 
-A close friend once mentioned how cool it’d be to practice brute forcing for a website login. I created a [simple web page](http://greenjam94.me/login.php) with a login form. Incorrect logins display a red error message while successful logins show the rest of the web page. There’s no database or complex code behind the webpage. It simply hashes the user input and compares it to a stored value.
+A good friend once mentioned how cool it’d be to practice brute forcing for a website login. I created a [simple web page](http://greenjam94.me/login.php) with a login form. Incorrect logins display a red error message while successful logins show the rest of the web page. There’s no database or complex code behind the webpage. It simply hashes the user input and compares it to a stored value.
 
 Before we continue, I must make it blatantly obvious that **hacking any online service without consent could land you in a lot of trouble**. For your safety, do not hack any systems outside of your personal domain or online labs / tutorials that give consent. If you’re reading this blog post. You have my consent to brute force [greenjam94.me/login.php](https://greenjam94.me/login.php) and to save time and limit web traffic from brute forcing attempts, a username and wordlist is provided.
 

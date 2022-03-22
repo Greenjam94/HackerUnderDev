@@ -13,7 +13,6 @@ tags:
 - kali
 - OSINT
 - web shell
-- write-up
 title: HackTheBox Traceback Write-up
 url: /hackthebox-traceback-write-up/
 ---

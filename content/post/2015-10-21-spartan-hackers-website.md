@@ -6,7 +6,7 @@ date: "2015-10-21T08:17:27Z"
 guid: https://hackerunder.dev/?p=137
 id: 137
 tags:
-- blog.greenjam94.me import
+
 title: Spartan Hackers Website
 url: /spartan-hackers-website/
 xyz_smap:

@@ -6,7 +6,7 @@ date: "2015-08-13T08:54:41Z"
 guid: https://hackerunder.dev/?p=114
 id: 114
 tags:
-- blog.greenjam94.me import
+
 title: Making a website using Jhipster
 url: /making-a-website-using-jhipster/
 xyz_smap:

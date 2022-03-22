@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Hacker101
 date: "2015-02-13T13:57:50Z"
 guid: https://hackerunder.dev/?p=50
 id: 50
 tags:
-- blog.greenjam94.me import
+
 title: 'Step 3: Set Up Your Hacking Environment'
 url: /your-hacking-environment/
 ---

@@ -6,7 +6,7 @@ date: "2015-05-16T23:53:02Z"
 guid: https://hackerunder.dev/?p=95
 id: 95
 tags:
-- blog.greenjam94.me import
+
 title: Automatic Sharing on Facebook and Twitter
 url: /automatic-sharing-on-facebook-and-twitter/
 xyz_smap:

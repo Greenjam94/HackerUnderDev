@@ -6,7 +6,7 @@ date: "2018-03-31T04:06:47Z"
 guid: https://www.hackerunder.dev/?p=662
 id: 662
 tags:
-- blog.greenjam94.me import
+
 title: How to quickly get into infosec
 url: /how-to-quickly-get-into-infosec/
 ---

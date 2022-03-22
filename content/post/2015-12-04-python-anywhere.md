@@ -6,7 +6,7 @@ date: "2015-12-04T12:01:36Z"
 guid: https://hackerunder.dev/?p=229
 id: 229
 tags:
-- blog.greenjam94.me import
+
 title: Python Anywhere
 url: /python-anywhere/
 xyz_smap:

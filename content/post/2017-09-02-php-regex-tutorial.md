@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Hacker101
 date: "2017-09-02T20:46:19Z"
 guid: https://hackerunder.dev/?p=618
 id: 618
 tags:
-- blog.greenjam94.me import
+- regex
+
 title: PHP Regex tutorial
 url: /php-regex-tutorial/
 ---

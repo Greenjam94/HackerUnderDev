@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2017-01-22T19:42:01Z"
 guid: https://hackerunder.dev/?p=530
 id: 530
 tags:
-- blog.greenjam94.me import
+
 title: How I got to Shmoocon2017
 url: /getting-to-shmoocon2017/
 ---

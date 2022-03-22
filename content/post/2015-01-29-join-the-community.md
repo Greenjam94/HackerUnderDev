@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2015-01-29T04:35:00Z"
 guid: https://hackerunder.dev/?p=22
 id: 22
 tags:
-- blog.greenjam94.me import
+
 title: 'Step 1: Join the community'
 url: /join-the-community/
 ---

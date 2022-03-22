@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- PTES
 date: "2015-04-19T19:25:06Z"
 guid: https://hackerunder.dev/?p=84
 id: 84
 tags:
-- blog.greenjam94.me import
+
 title: Enumeration Part 1
 url: /enumeration-part-1/
 ---

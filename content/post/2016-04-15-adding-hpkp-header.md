@@ -6,7 +6,8 @@ date: "2016-04-15T08:00:25Z"
 guid: https://hackerunder.dev/?p=299
 id: 299
 tags:
-- blog.greenjam94.me import
+- HPKP
+
 title: Adding a HPKP Header
 url: /adding-hpkp-header/
 ---

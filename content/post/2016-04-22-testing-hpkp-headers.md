@@ -6,7 +6,8 @@ date: "2016-04-22T07:00:44Z"
 guid: https://hackerunder.dev/?p=321
 id: 321
 tags:
-- blog.greenjam94.me import
+- HPKP
+
 title: Testing HPKP Headers
 url: /testing-hpkp-headers/
 ---

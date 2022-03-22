@@ -6,7 +6,8 @@ date: "2017-08-27T20:53:22Z"
 guid: https://hackerunder.dev/?p=614
 id: 614
 tags:
-- blog.greenjam94.me import
+- HPKP
+
 title: Do not waste your time with HPKP
 url: /not-waste-time-hpkp/
 ---

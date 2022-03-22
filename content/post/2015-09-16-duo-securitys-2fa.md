@@ -1,13 +1,14 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Hacker101
 date: "2015-09-16T16:57:12Z"
 guid: https://hackerunder.dev/?p=127
 id: 127
 tags:
-- blog.greenjam94.me import
-title: Duo Security&#8217;s 2FA
+- 2FA
+
+title: "Duo Security's 2FA"
 url: /duo-securitys-2fa/
 xyz_smap:
 - "1"

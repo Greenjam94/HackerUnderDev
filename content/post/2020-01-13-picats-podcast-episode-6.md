@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Miscellaneous
+- Community
 ct_period_last_updated:
 - default
 date: "2020-01-13T01:27:51Z"
@@ -12,7 +12,7 @@ tags:
 - misec
 - podcast
 - youtube
-title: Picat&#8217;s Podcast &#8211; Episode 6
+title: "Picat's Podcast: Episode 6"
 url: /picats-podcast-episode-6/
 ---
 

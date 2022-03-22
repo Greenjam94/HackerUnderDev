@@ -9,12 +9,12 @@ guid: https://hackerunder.dev/?p=333
 id: 333
 tags:
 - OverTheWire
-- blog.greenjam94.me import
+
 title: 'OverTheWire: Bandit'
 url: /overthewire-bandit/
 ---
 
-Hey everyone, this post about Bandit is NOT a walkthrough of the greatest (only) “learn bash hacking” programs I’ve completed. This is NOT going to give you an advantage if you’re looking for cheat codes. This post will hopefully make you click on [OverTheWire](http://overthewire.org/wargames/) and want to try it out for yourself.
+Hey everyone, **this post about Bandit is NOT a walkthrough** of the greatest (only) “learn bash hacking” programs I’ve completed. This is NOT going to give you an advantage if you’re looking for cheat codes. This post will hopefully make you click on [OverTheWire](http://overthewire.org/wargames/) and want to try it out for yourself.
 
 ## Why you should try Bandit
 

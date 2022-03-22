@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Just for fun
 date: "2016-04-12T12:56:46Z"
 guid: https://hackerunder.dev/?p=316
 id: 316
 tags:
-- blog.greenjam94.me import
+
 title: Rebuilding the 3D printer
 url: /rebuilding-3d-printer/
 ---

@@ -7,7 +7,7 @@ guid: https://hackerunder.dev/?p=186
 id: 186
 tags:
 - OWASP
-- blog.greenjam94.me import
+
 title: Installing BWA (Broken Web App)
 url: /installing-owasp-bwa/
 xyz_smap:

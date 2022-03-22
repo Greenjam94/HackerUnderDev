@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2016-02-10T16:26:19Z"
 guid: https://hackerunder.dev/?p=269
 id: 269
 tags:
-- blog.greenjam94.me import
+
 title: TLS Lightning Talk
 url: /tls-lightning-talk/
 ---

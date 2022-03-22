@@ -6,7 +6,7 @@ date: "2015-08-14T10:16:42Z"
 guid: https://hackerunder.dev/?p=121
 id: 121
 tags:
-- blog.greenjam94.me import
+
 title: Remodeling lcori.com
 url: /remodeling-lcori/
 xyz_smap:

@@ -8,4 +8,6 @@ SectionPagesMenu: main
 params:
   ananke_socials:
     - name: twitter
-    - url: https://twitter.com/hackerunderdev
+      url: https://twitter.com/hackerunderdev
+    - name: github
+      url: https://github.com/Greenjam94/HackerUnderDev

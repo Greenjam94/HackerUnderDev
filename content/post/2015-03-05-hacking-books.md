@@ -6,7 +6,7 @@ date: "2015-03-05T14:08:41Z"
 guid: https://hackerunder.dev/?p=63
 id: 63
 tags:
-- blog.greenjam94.me import
+
 title: Read a book!
 url: /hacking-books/
 ---

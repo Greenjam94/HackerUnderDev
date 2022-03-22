@@ -6,7 +6,7 @@ date: "2015-12-18T15:55:51Z"
 guid: https://hackerunder.dev/?p=224
 id: 224
 tags:
-- blog.greenjam94.me import
+
 title: Cowrie Honeypot Installation
 url: /cowrie-honeypot-install/
 xyz_smap:

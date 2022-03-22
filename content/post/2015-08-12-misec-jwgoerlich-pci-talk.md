@@ -1,13 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2015-08-12T14:17:28Z"
 guid: https://hackerunder.dev/?p=111
 id: 111
 tags:
-- blog.greenjam94.me import
-title: 'jwgoerlich&#8217;s PCI talk at #MiSec'
+
+title: "jwgoerlich's PCI talk at #misec"
 url: /misec-jwgoerlich-pci-talk/
 xyz_smap:
 - "1"

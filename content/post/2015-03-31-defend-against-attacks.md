@@ -6,7 +6,7 @@ date: "2015-03-31T14:11:12Z"
 guid: https://hackerunder.dev/?p=68
 id: 68
 tags:
-- blog.greenjam94.me import
+
 title: Defend your website against SQL injection and XXS
 url: /defend-against-attacks/
 ---

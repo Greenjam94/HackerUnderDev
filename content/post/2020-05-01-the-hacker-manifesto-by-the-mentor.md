@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Miscellaneous
+- Hacker101
 ct_period_last_updated:
 - default
 date: "2020-05-01T00:43:36Z"

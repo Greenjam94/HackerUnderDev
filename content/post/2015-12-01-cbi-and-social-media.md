@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2015-12-01T22:37:10Z"
 guid: https://hackerunder.dev/?p=203
 id: 203
 tags:
-- blog.greenjam94.me import
+
 title: CBI and social media
 url: /cbi-and-social-media/
 xyz_smap:

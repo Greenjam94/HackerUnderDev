@@ -13,7 +13,6 @@ tags:
 - HTB
 - kali
 - web shell
-- write-up
 title: HackTheBox Remote Writeup
 url: /hackthebox-remote-writeup/
 ---

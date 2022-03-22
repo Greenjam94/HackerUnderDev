@@ -1,17 +1,17 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2016-05-21T18:55:11Z"
 guid: https://hackerunder.dev/?p=359
 id: 359
 tags:
-- blog.greenjam94.me import
+
 title: Path to the dark side
 url: /path-dark-side/
 ---
 
-On Saturday, May 21st. The first career panel in [\#Misec](http://michsec.org/) history was held. Put on by the brave [@chaoticflaws](https://twitter.com/chaoticflaws), [@vajkat](https://twitter.com/vajkat), and [@ZenM0de](https://twitter.com/ZenM0de), it was highly successful. The panel included [@jwgoerlich](https://twitter.com/jwgoerlich), [@jeremynielson](https://twitter.com/jeremynielson), [@jim\_beechy](https://twitter.com/jim_beechey), [@D0Xt0rZ3r0](https://twitter.com/D0Xt0rZ3r0), and a infosec recruiter from [@TEKsystems](https://twitter.com/TEKsystems) (Sorry, I didn’t find his handle). It was five glorious hours of Q/A related to getting a head start in infosec and what really matters in the field. Here’s a recap of what was discussed from the panel.
+On Saturday, May 21st. The first career panel in [\#Misec](http://michsec.org/) history was held. Put on by the brave [@chaoticflaws](https://twitter.com/chaoticflaws), [@vajkat](https://twitter.com/vajkat), and [@ZenM0de](https://twitter.com/ZenM0de), it was highly successful. The panel included [@jwgoerlich](https://twitter.com/jwgoerlich), [@jeremynielson](https://twitter.com/jeremynielson), [@jim\_beechy](https://twitter.com/jim_beechey), [@D0Xt0rZ3r0](https://twitter.com/D0Xt0rZ3r0), and a infosec recruiter from [@TEKsystems](https://twitter.com/TEKsystems) (Sorry, I didn’t get his contact info). It was five glorious hours of Q/A related to getting a head start in infosec and what really matters in the field. Here’s a recap of what was discussed from the panel.
 
 **Disclaimer:**  
 Please realize that whatever I was able to scribble down does not include everything that was said. To help me try to get “the important points” I “borrowed” a few tweets from our panelists and avid listeners from the crowd (cough, cough, @TeaPartyTechie). A lot of my quoted references are paraphrased and are my adaptations of their wise words. I grabbed the tweets after the event so they’re out of order, but I tried to make it as chronological as possible. Feel free to take it with a grain of salt. Also if you’re one of the panelists and don’t like something you read, please let me know and I’ll work with you to fix it!

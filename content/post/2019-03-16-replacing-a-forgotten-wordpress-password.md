@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Miscellaneous
+- Uncategorized
 ct_period_last_updated:
 - default
 date: "2019-03-16T23:37:10Z"
@@ -10,7 +10,7 @@ id: 759
 image: /wp-content/uploads/2019/03/computer-hand-keyboard.jpg
 tags:
 - password
-- wordpress
+- WordPress
 title: Replacing a forgotten WordPress password
 url: /replacing-a-forgotten-wordpress-password/
 ---

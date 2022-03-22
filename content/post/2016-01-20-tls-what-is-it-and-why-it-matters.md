@@ -6,7 +6,7 @@ date: "2016-01-20T15:21:16Z"
 guid: https://hackerunder.dev/?p=238
 id: 238
 tags:
-- blog.greenjam94.me import
+
 title: 'TLS: What is it and why it matters'
 url: /tls-what-is-it-and-why-it-matters/
 xyz_smap:

@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- PTES
 date: "2015-04-04T15:07:29Z"
 guid: https://hackerunder.dev/?p=70
 id: 70
 tags:
-- blog.greenjam94.me import
+
 title: Footprinting
 url: /footprinting/
 ---

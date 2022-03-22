@@ -6,7 +6,7 @@ date: "2017-04-04T23:33:55Z"
 guid: https://hackerunder.dev/?p=545
 id: 545
 tags:
-- blog.greenjam94.me import
+
 title: My experience setting up an Algo VPN
 url: /my-experience-with-algo/
 ---

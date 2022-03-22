@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Hacker101
 date: "2015-02-04T04:52:04Z"
 guid: https://hackerunder.dev/?p=24
 id: 24
 tags:
-- blog.greenjam94.me import
+
 title: 'Step 2: The Basics'
 url: /the-basics/
 ---

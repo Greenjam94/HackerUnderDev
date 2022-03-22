@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Hacker 101
+- Hacker101
 ct_period_last_updated:
 - default
 date: "2019-06-27T23:25:39Z"

@@ -1,13 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2015-12-11T14:40:05Z"
 guid: https://hackerunder.dev/?p=219
 id: 219
 tags:
-- blog.greenjam94.me import
-title: My First Presentation &#8211; Web Hacking
+
+title: "My First Presentation: Web Hacking"
 url: /web-app-hacking/
 xyz_smap:
 - "1"

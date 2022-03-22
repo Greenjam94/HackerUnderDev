@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Just for fun
 date: "2015-01-22T04:33:10Z"
 guid: https://hackerunder.dev/?p=17
 id: 17
 tags:
-- blog.greenjam94.me import
+
 title: Blackhat Movie with Chris Hemsworth
 url: /blackhat-movie/
 ---

@@ -6,7 +6,8 @@ date: "2015-07-29T23:15:37Z"
 guid: https://hackerunder.dev/?p=106
 id: 106
 tags:
-- blog.greenjam94.me import
+- IRC
+
 title: Found a group, sticking with it.
 url: /setting-up-irc/
 xyz_smap:

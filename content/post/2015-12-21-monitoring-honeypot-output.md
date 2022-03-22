@@ -6,7 +6,7 @@ date: "2015-12-21T18:12:03Z"
 guid: https://hackerunder.dev/?p=227
 id: 227
 tags:
-- blog.greenjam94.me import
+
 title: Monitoring Honeypot Output
 url: /monitoring-honeypot-output/
 xyz_smap:

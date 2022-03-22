@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- PTES
 date: "2017-05-25T17:49:12Z"
 guid: https://hackerunder.dev/?p=596
 id: 596
 tags:
-- blog.greenjam94.me import
+- Vulnerability Analysis
+
 title: Breaking My Blog with WPscan
 url: /breaking-blog-wpscan/
 ---

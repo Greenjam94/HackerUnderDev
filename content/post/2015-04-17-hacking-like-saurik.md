@@ -6,7 +6,7 @@ date: "2015-04-17T18:20:06Z"
 guid: https://hackerunder.dev/?p=80
 id: 80
 tags:
-- blog.greenjam94.me import
+
 title: Hacking like Saurik
 url: /hacking-like-saurik/
 xyz_smap:

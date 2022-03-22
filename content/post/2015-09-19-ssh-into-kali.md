@@ -6,7 +6,7 @@ date: "2015-09-19T17:30:18Z"
 guid: https://hackerunder.dev/?p=129
 id: 129
 tags:
-- blog.greenjam94.me import
+
 title: SSH into Kali
 url: /ssh-into-kali/
 xyz_smap:
