@@ -34,7 +34,7 @@ One of the first things to do while reviewing a new machine is to scan for open 
 
 ## Nmap
 
-To do a baic scan of DC1 I ran `nmap -sCV 172.16.250.131 -oA nmap-sCV`.
+To do a basic scan of DC1 I ran `nmap -sCV 172.16.250.131 -oA nmap-sCV`.
 
 The [options](https://nmap.org/book/man-briefoptions.html) I passed with the command are listed below.
 
