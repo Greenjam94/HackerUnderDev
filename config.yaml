@@ -2,6 +2,7 @@ baseURL: https://www.hackerunder.dev
 languageCode: en-us
 title: Hacker Under Dev
 theme: ananke
+googleAnalytics: G-PXSHHWH5LB
 
 SectionPagesMenu: main
 
