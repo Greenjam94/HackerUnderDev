@@ -24,7 +24,7 @@ OffSec provides these streams and videos for free publically. Vulnhub hosts thes
 
 DC 1 is the first machine in the [DC series](https://www.vulnhub.com/series/dc,199/). DC machines are focused around web vulnerabilities and commonly use outdated versions of content management systems (CMS). The challenge of these machines are to exploit the web vulnerabilites and find a way ot take over the root user for each machine. DC 1 is a linux machine that uses Drupal 7 that is vulnerable to a remote code execution vulnerability. 
 
-To start, there was no given information about the machine. Based on how the virtual networking was set up in my lab, I knew the IP address range that the machine was in. One of my [first blog posts](/posts/2015-02-13-your-hacking-environment) was about spinning up virtual machines for these kind of exercises. I had Kali and DC1 running as virtual machines on an isolated NAT network. Kali was at 172.16.250.129 and by using nmap ping scans, DC1 was found at 172.16.250.131.
+To start, there was no given information about the machine. Based on how the virtual networking was set up in my lab, I knew the IP address range that the machine was in. One of my [first blog posts](/your-hacking-environment) was about spinning up virtual machines for these kind of exercises. I had Kali and DC1 running as virtual machines on an isolated NAT network. Kali was at 172.16.250.129 and by using nmap ping scans, DC1 was found at 172.16.250.131.
 
 On Kali, I set up a folder in the home directory for Vulnhub machines. In that folder I created another specifically for DC1. This is where I copy or download exploits to review. Information from the target machine can also be saved here, for example credentials or config files.
 
