@@ -30,17 +30,7 @@ url: /to-hugo-from-wordpress/
 ---
 ```
 
-# To Do
-
-- [ ] Edit all the old content that broke from WP export
-- [ ] Learn and correctly use categories and tags
-- [ ] Personalize the theme
-- [ ] Sunset WP instance and switch domain to Hugo site
-- [ ] Google Analytics
-
-# Historical
-
-## Initial setup notes
+# Initial setup notes
 
 Followed Hugo [quick start](https://gohugo.io/getting-started/quick-start/)
 
