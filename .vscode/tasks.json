@@ -1,0 +1,14 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start Hugo Dev Websever",
+            "type": "shell",
+            "command": "hugo serve -D",
+            "problemMatcher": []
+          }
+    ]
+}
+// https://laurentsenta.com/digital-garden/technology/setup-vscode-for-hugo-with-tasks/
