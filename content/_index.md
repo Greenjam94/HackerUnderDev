@@ -3,6 +3,6 @@ description: "Learning to be a better hacker"
 featured_image: '/images/hacker-hero.jpg'
 ---
 
-I am transitioning from WordPress to Hugo.
+It is cybersecurity awareness month this October!
 
-Pardon our dust
+Lets learn about phishing, password management, multifactor authentication, and staying up to date.
