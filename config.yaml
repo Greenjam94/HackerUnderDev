@@ -1,7 +1,7 @@
 baseURL: https://www.hackerunder.dev
 languageCode: en-us
 title: Hacker Under Dev
-theme: hud
+theme: hackerunderdev
 googleAnalytics: G-PXSHHWH5LB
 
 SectionPagesMenu: main

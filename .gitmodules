@@ -1,0 +1,3 @@
+[submodule "themes/hackerunderdev"]
+	path = themes/hackerunderdev
+	url = https://github.com/Greenjam94/theme-hackerunderdev-gohugo.git
