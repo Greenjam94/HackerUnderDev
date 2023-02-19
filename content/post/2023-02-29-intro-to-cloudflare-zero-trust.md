@@ -8,7 +8,7 @@ ct_period_last_updated:
 - default
 date: "2023-02-19T00:00:00Z"
 title: Into to Cloudflare Zero Trust
-url: /Into to Cloudflare Zero Trust
+url: /into-to-cloudflare-zero-trust
 ---
 
 Cloudflare offers some amazing, and free, products to secure personal use, self-hosted applications and devices. Last week, I set up a server at home running docker containers. By using Cloudflare I can securely make those docker containers internet accessible. Previously in order to do that, I'd have to open a port through my home router and accept any traffic from the internet on that port. This is visible and allows a home IP to appear in use to anyone who scans it.
