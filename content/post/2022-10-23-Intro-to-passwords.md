@@ -47,3 +47,11 @@ The pricing made it worthwhile to offer to my family, and after some convincing,
 # Conclusion
 
 Credentials are a key part of accessing computers and applications. Passwords should be complex, unique, and rotated as needed. Physically writting passwords is more secure than compromising those requirements. Digital password managers provide better means to store, sort, and use secure passwords. I highly recommend you check out a password manager such as 1Password which my family, coworkers, and I have had great experience with so far.
+
+# Update 2/18/2023
+
+[passwordmanager.com](https://www.passwordmanager.com) reached out to me about this post and wanted to provide additional support. Their website content is filled with recommendations, reviews, and comparisons. If you enjoyed this article, I suggest you checkout their site or one of their articles below
+
+- https://www.passwordmanager.com/best-password-managers/
+- https://www.passwordmanager.com/what-is-a-password-manager/
+- https://www.passwordmanager.com/how-to-choose-the-best-password-manager/
