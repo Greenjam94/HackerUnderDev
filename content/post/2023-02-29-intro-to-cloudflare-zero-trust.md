@@ -7,8 +7,8 @@ tags:
 ct_period_last_updated:
 - default
 date: "2023-02-19T00:00:00Z"
-title: Into to Cloudflare Zero Trust
-url: /into-to-cloudflare-zero-trust
+title: Intro to Cloudflare Zero Trust
+url: /intro-to-cloudflare-zero-trust
 ---
 
 Cloudflare offers some amazing, and free, products to secure personal use, self-hosted applications and devices. Last week, I set up a server at home running docker containers. By using Cloudflare I can securely make those docker containers internet accessible. Previously in order to do that, I'd have to open a port through my home router and accept any traffic from the internet on that port. This is visible and allows a home IP to appear in use to anyone who scans it.
@@ -17,7 +17,7 @@ Cloudflare Zero Trust replaces the need to expose your infrastructure directly b
 
 # Exposing a self-hosted application
 
-This article will cover how I exposed my docker container to allow external access. In order to follow along, two prerequisites are needed. Domain ownership where custom nameservers can be set. I know both google domains and namecheap are good registrars to use. The second requirement is a docker container running a web application. I won't cover the setup of the docker container here, but you should be able to access it by visiting it on the local network.
+This article will cover how I exposed my docker container to allow external access. In order to follow along, two prerequisites are needed. Domain ownership where custom nameservers can be set. I know both Google domains and Namecheap are good registrars to use. The second requirement is a docker container running a web application. I won't cover the setup of the docker container here, but you should be able to access it by visiting it on the local network.
 
 ## Add a website domain to cloudflare
 
@@ -47,6 +47,6 @@ After that, you will be able to visit the subdomain and the traffic will route t
 
 # Conclusion
 
-Cloudflare provides a free means to gain remote access to your self-hosted applications without publicly exposing your network. Where previously I had set up reverse DNS with no-ip.com and portforwarding through my router, now I'm able to set up a container and tunnel all traffic through cloudflare. If any external party scanned my infrastructure, there would be no exposed ports or services for these docker applications. The domain, if scanned, would reveal that Cloudflare is providing the content.
+Cloudflare provides a free means to gain remote access to your self-hosted applications without publicly exposing your network. Where previously I had set up reverse DNS with no-ip.com and port forwarding through my router, now I'm able to set up a container and tunnel all traffic through cloudflare. If any external party scanned my infrastructure, there would be no exposed ports or services for these docker applications. The domain, if scanned, would reveal that Cloudflare is providing the content.
 
 If you are running applications and want to open it to the internet in a secure way, Cloudflare Zero Trust Tunnels is the way to do it.
