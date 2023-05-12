@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Uncategorized
 ct_period_last_updated:
 - default
 date: "2020-07-06T08:43:30Z"

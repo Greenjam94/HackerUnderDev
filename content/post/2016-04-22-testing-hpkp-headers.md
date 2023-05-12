@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Best Practices
 date: "2016-04-22T07:00:44Z"
 guid: https://hackerunder.dev/?p=321
 id: 321
 tags:
-- HPKP
+- tls
+- hpkp
 
 title: Testing HPKP Headers
 url: /testing-hpkp-headers/

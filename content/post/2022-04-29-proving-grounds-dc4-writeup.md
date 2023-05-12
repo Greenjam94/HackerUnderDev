@@ -1,16 +1,11 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 tags:
-- ProvingGrounds
-- OffSec
-- Linux
-- web attack
-- burpsuite
-- brute force
-- sudo
-- hydra
+- walkthrough
+- offsec
+- provinggrounds
 ct_period_last_updated:
 - default
 date: "2022-04-29T21:44:27Z"

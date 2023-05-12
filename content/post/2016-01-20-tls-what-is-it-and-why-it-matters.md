@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Best Practices
 date: "2016-01-20T15:21:16Z"
 guid: https://hackerunder.dev/?p=238
 id: 238
 tags:
-
+- tls
+- encryption
 title: 'TLS: What is it and why it matters'
 url: /tls-what-is-it-and-why-it-matters/
 xyz_smap:

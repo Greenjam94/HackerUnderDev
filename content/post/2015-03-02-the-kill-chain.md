@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Best Practices
 date: "2015-03-02T14:07:06Z"
 guid: https://hackerunder.dev/?p=61
 id: 61

@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 date: "2018-12-16T04:08:56Z"
 guid: https://www.hackerunder.dev/?p=666
 id: 666
 tags:
-
+- walkthrough
+- ctf
 title: My experience with RuCTFe 2018
 url: /my-experience-with-ructfe-2018/
 ---

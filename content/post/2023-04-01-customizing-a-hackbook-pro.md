@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Tools
 tags:
 - macOS
 - kali

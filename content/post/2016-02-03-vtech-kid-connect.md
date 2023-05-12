@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Threat Intelligence
 date: "2016-02-03T14:11:59Z"
 guid: https://hackerunder.dev/?p=263
 id: 263
 tags:
-
+- breach
 title: VTech Kid Connect Data Breach
 url: /vtech-kid-connect/
 ---

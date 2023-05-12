@@ -1,13 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 date: "2015-11-25T20:33:44Z"
 guid: https://hackerunder.dev/?p=186
 id: 186
 tags:
-- OWASP
-
+- owasp
 title: Installing BWA (Broken Web App)
 url: /installing-owasp-bwa/
 xyz_smap:

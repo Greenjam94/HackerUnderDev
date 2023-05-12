@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- PTES
+- Best Practices
 date: "2017-05-25T17:49:12Z"
 guid: https://hackerunder.dev/?p=596
 id: 596
 tags:
-- Vulnerability Analysis
+- vulnerability_analysis
 
 title: Breaking My Blog with WPscan
 url: /breaking-blog-wpscan/

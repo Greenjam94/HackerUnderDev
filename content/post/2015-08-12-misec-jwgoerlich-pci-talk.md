@@ -6,7 +6,7 @@ date: "2015-08-12T14:17:28Z"
 guid: https://hackerunder.dev/?p=111
 id: 111
 tags:
-
+- spotlight
 title: "jwgoerlich's PCI talk at #misec"
 url: /misec-jwgoerlich-pci-talk/
 xyz_smap:

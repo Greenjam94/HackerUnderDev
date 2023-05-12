@@ -6,7 +6,7 @@ date: "2016-12-01T23:22:44Z"
 guid: https://hackerunder.dev/?p=435
 id: 435
 tags:
-- Slack
+- slack
 - IRC
 
 title: Setting up Slack for MiSec

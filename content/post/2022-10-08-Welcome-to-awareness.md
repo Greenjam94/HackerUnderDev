@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Best Practices
 tags:
 - CAM2022
 - NationalCybersecurityAlliance
-- OffSec
-- HTB
+- offsec
+- htb
 ct_period_last_updated:
 - default
 date: "2022-10-08T00:00:00Z"

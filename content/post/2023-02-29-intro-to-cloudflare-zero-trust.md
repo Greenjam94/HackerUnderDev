@@ -1,9 +1,9 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Tools
 tags:
-- ZeroTrust
+- zerotrust
 ct_period_last_updated:
 - default
 date: "2023-02-19T00:00:00Z"

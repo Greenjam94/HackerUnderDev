@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 date: "2017-09-13T17:06:04Z"
 guid: https://hackerunder.dev/?p=625
 id: 625
 tags:
-
+- kali
+- metasploit
 title: Installing Kali and Metasploitable on VirtualBox
 url: /installing-kali-metasploitable-virtualbox/
 ---

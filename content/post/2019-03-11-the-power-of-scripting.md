@@ -1,12 +1,14 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 ct_period_last_updated:
 - default
 date: "2019-03-11T01:04:02Z"
 guid: https://www.hackerunder.dev/?p=747
 id: 747
+tags:
+- overthewire
 image: /wp-content/uploads/2019/03/abstract-code.jpg
 title: The power of scripting
 url: /the-power-of-scripting/

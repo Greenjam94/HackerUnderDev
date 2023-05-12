@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 date: "2015-06-11T23:58:46Z"
 guid: https://hackerunder.dev/?p=98
 id: 98
 tags:
-
+- webdev
 title: EMU Gymnastics Club Website
 url: /emu-gymnastics-club-website/
 xyz_smap:

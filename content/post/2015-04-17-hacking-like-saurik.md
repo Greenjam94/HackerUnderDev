@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Community
 date: "2015-04-17T18:20:06Z"
 guid: https://hackerunder.dev/?p=80
 id: 80
 tags:
-
+- spotlight
 title: Hacking like Saurik
 url: /hacking-like-saurik/
 xyz_smap:

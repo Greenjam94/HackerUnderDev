@@ -1,11 +1,11 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Tools
 tags:
-- HomeLab
-- Docker
-- Linux
+- homelab
+- docker
+- linux
 ct_period_last_updated:
 - default
 date: "2023-02-15T00:00:00Z"

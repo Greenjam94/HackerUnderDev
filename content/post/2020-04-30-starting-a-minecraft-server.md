@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Just for fun
+- Uncategorized
 ct_period_last_updated:
 - default
 date: "2020-04-30T00:37:51Z"
@@ -9,7 +9,6 @@ guid: https://www.hackerunder.dev/?p=826
 id: 826
 tags:
 - gaming
-- minecraft
 title: Starting a Minecraft server
 url: /starting-a-minecraft-server/
 ---

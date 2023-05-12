@@ -1,0 +1,58 @@
+---
+author: Alias
+categories:
+# Pick one or two and delete the rest
+- Best Practices
+- Community
+- Compliance 
+- Insights
+- Threat Intelligence
+- Tools
+- Uncategorized
+tags:
+- keyterm
+- alternative
+- related
+ct_period_last_updated:
+- default
+date: "YYYY-MM-DDT00:00:00Z" # Replace Date
+title: Replace article title here
+url: /replace-url-here
+featured_image: '/images/folder/some_background.png'
+---
+
+1. Copy this file, rename copy with date and title, format is .md
+2. Delete unused categories 
+3. Create tags, try to use existing ones
+4. Update date to match filename, keep 00:00 time
+5. Replace URL andd title
+6: Replace or remove featured image
+7. Write article after the second `---`, replacing this text and syntax examples below
+
+Intro paragraph
+
+# Heading
+
+lorem ipsum...
+
+# Heading
+
+- list
+- list
+- list [link](http://localhost)
+
+![temp picture](/images/folder/some_picture.png)
+
+## smaller header
+
+### smallest header
+
+```
+Code block
+```
+
+`Single line of code`
+
+# Conclusion
+
+Hack the planet!

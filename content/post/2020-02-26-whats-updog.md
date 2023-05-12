@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Exploitation
+- Tools
 ct_period_last_updated:
 - default
 date: "2020-02-26T02:18:42Z"
@@ -11,7 +11,7 @@ image: /wp-content/uploads/2020/02/updog_github.png
 tags:
 - kali
 - python3
-- web server
+- webserver
 title: What is Updog?
 url: /whats-updog/
 ---

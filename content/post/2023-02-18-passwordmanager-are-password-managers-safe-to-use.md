@@ -1,10 +1,9 @@
 ---
 author: passwordmanager.com
 categories:
-- Community
+- Tools
 tags:
-- GuestAuthor
-- PasswordManagement
+- spotlight
 ct_period_last_updated:
 - default
 date: "2023-02-18T00:00:00Z"

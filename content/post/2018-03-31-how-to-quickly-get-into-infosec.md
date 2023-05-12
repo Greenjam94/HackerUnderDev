@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Community
 date: "2018-03-31T04:06:47Z"
 guid: https://www.hackerunder.dev/?p=662
 id: 662

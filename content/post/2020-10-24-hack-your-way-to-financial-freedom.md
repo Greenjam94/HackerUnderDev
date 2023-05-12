@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Just for fun
+- Uncategorized
 ct_period_last_updated:
 - default
 date: "2020-10-24T04:12:29Z"

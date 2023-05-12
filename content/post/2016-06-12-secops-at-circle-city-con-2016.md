@@ -6,7 +6,7 @@ date: "2016-06-12T01:14:00Z"
 guid: https://hackerunder.dev/?p=385
 id: 385
 tags:
-
+- conference
 title: First SecOps Job at Circle City Con 2016
 url: /secops-at-circle-city-con-2016/
 ---

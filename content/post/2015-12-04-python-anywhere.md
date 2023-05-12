@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 date: "2015-12-04T12:01:36Z"
 guid: https://hackerunder.dev/?p=229
 id: 229
 tags:
-
+- python
+- webdev
 title: Python Anywhere
 url: /python-anywhere/
 xyz_smap:

@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Best Practices
 date: "2016-04-15T08:00:25Z"
 guid: https://hackerunder.dev/?p=299
 id: 299
 tags:
-- HPKP
+- tls
+- hpkp
 
 title: Adding a HPKP Header
 url: /adding-hpkp-header/

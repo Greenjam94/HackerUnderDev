@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 date: "2015-12-18T15:55:51Z"
 guid: https://hackerunder.dev/?p=224
 id: 224
 tags:
-
+- honeypot
 title: Cowrie Honeypot Installation
 url: /cowrie-honeypot-install/
 xyz_smap:

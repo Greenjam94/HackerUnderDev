@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Best Practices
 date: "2017-08-27T20:53:22Z"
 guid: https://hackerunder.dev/?p=614
 id: 614
 tags:
-- HPKP
+- tls
+- hpkp
 
 title: Do not waste your time with HPKP
 url: /not-waste-time-hpkp/

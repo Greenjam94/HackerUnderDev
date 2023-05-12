@@ -1,12 +1,14 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Tools
 date: "2015-02-13T13:57:50Z"
 guid: https://hackerunder.dev/?p=50
 id: 50
 tags:
-
+- virtualbox
+- owasp
+- kali
 title: 'Step 3: Set Up Your Hacking Environment'
 url: /your-hacking-environment/
 ---

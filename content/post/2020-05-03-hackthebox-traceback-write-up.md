@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 ct_period_last_updated:
 - default
 date: "2020-05-03T18:06:14Z"
@@ -9,10 +9,9 @@ guid: https://www.hackerunder.dev/?p=850
 id: 850
 image: /wp-content/uploads/2020/05/htb_traceback_infocard.png
 tags:
-- HTB
+- walkthough
+- htb
 - kali
-- OSINT
-- web shell
 title: HackTheBox Traceback Write-up
 url: /hackthebox-traceback-write-up/
 ---

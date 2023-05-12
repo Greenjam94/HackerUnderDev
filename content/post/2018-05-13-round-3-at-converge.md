@@ -6,7 +6,7 @@ date: "2018-05-13T04:08:04Z"
 guid: https://www.hackerunder.dev/?p=664
 id: 664
 tags:
-
+- conference
 title: Round 3 at Converge
 url: /round-3-at-converge/
 ---

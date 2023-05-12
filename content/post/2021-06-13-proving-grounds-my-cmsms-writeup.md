@@ -1,14 +1,11 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 tags:
-- ProvingGrounds
-- OffSec
-- Linux
-- web attack
-- default creds
-- sudo
+- walkthrough
+- offsec
+- provinggrounds
 ct_period_last_updated:
 - default
 date: "2021-06-13T00:59:27Z"

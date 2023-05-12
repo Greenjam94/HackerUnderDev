@@ -2,8 +2,9 @@
 
 ## Local setup
 
+- Install git and go
 - Clone code from this repo (or fork it)
-- Get theme `git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`
+- Get theme `git submodule add https://github.com/Greenjam94/theme-hackerunderdev-gohugo.git themes/hackerunderdev`
 - Serve hugo site locally `hugo serve -D`
 - Edit code and see it live at http://localhost:1313
 
@@ -35,10 +36,11 @@ url: /to-hugo-from-wordpress/
 Followed Hugo [quick start](https://gohugo.io/getting-started/quick-start/)
 
 1. Install git
-2. Install hugo
-3. Create site
-4. Export WordPress content to jekyll zip
-5. Import Jekyll zip to Hugo
+2. Install go
+3. Install hugo
+4. Create site
+5. Export WordPress content to jekyll zip
+6. Import Jekyll zip to Hugo
 
 Set up free hosting with netlify.com
 Followed gohugo.io [hosting on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)

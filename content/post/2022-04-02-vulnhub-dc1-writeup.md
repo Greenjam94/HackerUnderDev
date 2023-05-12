@@ -1,14 +1,11 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 tags:
-- Vulnhub
-- OffSec
-- Linux
-- web attack
-- SUID
-- metasploit
+- walkthrough
+- offsec
+- vulnhub
 ct_period_last_updated:
 - default
 date: "2022-04-05T19:04:27Z"

@@ -3,9 +3,8 @@ author: Ron & Tyler
 categories:
 - Community
 tags:
-- Bsides
-- Conference
-- PA Hackers
+- bsides
+- conference
 ct_period_last_updated:
 - default
 date: "2023-03-19T00:00:00Z"

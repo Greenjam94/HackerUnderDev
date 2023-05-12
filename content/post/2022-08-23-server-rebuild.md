@@ -1,11 +1,10 @@
 ---
 author: Greenjam94
 categories:
-- Just for fun
+- Uncategorized
 tags:
-- Ubuntu
-- Samba
-- Minecraft
+- homelab
+- linux
 ct_period_last_updated:
 - default
 date: "2022-08-23T00:00:00Z"

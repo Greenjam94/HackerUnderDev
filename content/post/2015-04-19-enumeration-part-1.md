@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- PTES
+- Best Practices
 date: "2015-04-19T19:25:06Z"
 guid: https://hackerunder.dev/?p=84
 id: 84
 tags:
-
+- enumeration
 title: Enumeration Part 1
 url: /enumeration-part-1/
 ---

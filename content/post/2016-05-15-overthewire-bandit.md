@@ -1,14 +1,15 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 ct_period_last_updated:
 - default
 date: "2016-05-15T11:30:55Z"
 guid: https://hackerunder.dev/?p=333
 id: 333
 tags:
-- OverTheWire
+- walkthrough
+- overthewire
 
 title: 'OverTheWire: Bandit'
 url: /overthewire-bandit/

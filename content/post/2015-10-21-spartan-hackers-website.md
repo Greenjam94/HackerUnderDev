@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 date: "2015-10-21T08:17:27Z"
 guid: https://hackerunder.dev/?p=137
 id: 137
 tags:
-
+- bootstrap
+- webdev
 title: Spartan Hackers Website
 url: /spartan-hackers-website/
 xyz_smap:

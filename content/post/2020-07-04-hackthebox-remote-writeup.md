@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 ct_period_last_updated:
 - default
 date: "2020-07-04T03:37:38Z"
@@ -9,10 +9,9 @@ guid: https://www.hackerunder.dev/?p=870
 id: 870
 image: /wp-content/uploads/2020/07/HTB_Remote.png
 tags:
-- DLL hijacking
-- HTB
+- walkthough
+- htb
 - kali
-- web shell
 title: HackTheBox Remote Writeup
 url: /hackthebox-remote-writeup/
 ---

@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 ct_period_last_updated:
 - default
 date: "2020-07-09T03:53:45Z"
@@ -9,13 +9,9 @@ guid: https://www.hackerunder.dev/?p=898
 id: 898
 image: /wp-content/uploads/2020/07/HTB_Sauna.png
 tags:
-- evil-winrm
-- HTB
-- impacket
+- walkthough
+- htb
 - kali
-- kerberos
-- mimikatz
-- winPEAs
 title: HackTheBox Sauna Writeup
 url: /hackthebox-sauna-writeup/
 ---

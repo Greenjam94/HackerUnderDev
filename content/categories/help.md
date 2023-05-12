@@ -2,46 +2,31 @@
 title: Help for categories
 ---
 
-#  PTES
+# Best Practices
 
-Penetration Testing Execution Standard (PTES) defines penetration testing as 7 phases. Particularly, PTES Technical Guidelines give hands-on suggestions on testing procedures, and recommendation for security testing tools.
-
-## Related Tags
-
-- Reconnaissance
-- Enumeration
-- Threat Modeling
-- Vulnerability Analysis
-- Exploitation
-- Post Exploitation
-- Reporting
-
-## Reference
-
-- [OWASP](https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies#penetration-testing-execution-standard)
-
-# Hacker101
-
-Introductory posts for anyone outside of the industry to approach hacking or securing themselves.
-
-# Walkthroughs
-
-Public walkthroughs of attacking machines like on OffSec Proving Grounds Play or HackTheBox.
-
-## Related Tags
-
-- ProvingGrounds
-- HackTheBox
-- VulnHub
+Methods to follow to improve security, organization, or effectiveness.
+For example ways to stay safe online or how to take notes while studying for certifications or while working.
 
 # Community
 
-Conference experiences, Talks, Presenter notes, and more about personally interacting with the larger infosec community.
+Updates on the latest from the infosec community. Experiences at events, reviews on groups or trainings, and walkthroughs on public training options.
 
-# Just for fun
+# Compliance
 
-Not technical hacker posts, but games, builds, etc that I wanted to record here
+Introductions to topics around legal and recommended guidelines that security practioners should be aware of.
 
-# Uncategorized
+# Insights
 
-A catch all for other posts
+Future predictions on new threats, trending technology, or changes in the security industry.
+
+# Threat Intelligence
+
+Updates from news articles, security research, monitoring alerts and what to take away from each.
+
+# Tools
+
+Reviews, demonstrations, and comparisons of tools. Development principles to help create your own tools.
+
+# Uncategorized 
+
+A catch all for any other posts that don't match with a specific topic

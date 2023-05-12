@@ -1,12 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Uncategorized
+- Tools
 date: "2015-05-15T13:24:11Z"
 guid: https://hackerunder.dev/?p=89
 id: 89
 tags:
-
+- development
 title: Developing KORA 3.0
 url: /developing-kora-3-0/
 xyz_smap:

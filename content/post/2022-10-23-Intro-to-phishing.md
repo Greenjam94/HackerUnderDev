@@ -1,7 +1,7 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Best Practices
 tags:
 - CAM2022
 - NationalCybersecurityAlliance

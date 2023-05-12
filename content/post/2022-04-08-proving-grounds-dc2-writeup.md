@@ -1,14 +1,11 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 tags:
-- ProvingGrounds
-- OffSec
-- Linux
-- web attack
-- sudo
-- wpscan
+- walkthrough
+- offsec
+- provinggrounds
 ct_period_last_updated:
 - default
 date: "2022-04-08T20:04:27Z"

@@ -1,9 +1,8 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Tools
 tags:
-- Open Source
 - Wazuh
 - XDR
 - SIEM

@@ -1,12 +1,10 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Best Practices
 date: "2015-02-04T04:52:04Z"
 guid: https://hackerunder.dev/?p=24
 id: 24
-tags:
-
 title: 'Step 2: The Basics'
 url: /the-basics/
 ---

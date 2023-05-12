@@ -6,7 +6,7 @@ date: "2015-10-24T21:17:59Z"
 guid: https://hackerunder.dev/?p=139
 id: 139
 tags:
-
+- hardware
 title: Assembling a Delta 3D Printer
 url: /assembling-a-delta-3d-printer/
 xyz_smap:

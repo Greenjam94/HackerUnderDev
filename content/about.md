@@ -7,18 +7,26 @@ date: '2015-03-29T05:17:47+00:00'
 author: Greenjam94
 ---
 
-I am James Green and I’m working to become a better hacker. My goal here is to share what I learned with you. Most of my projects are related to penetration testing, lock-picking, development, or 3D printing. This website will be a blog of my trials and tribulations. Hopefully, by writing about what I learn, it will allow me to share my journey with you while keeping me motivated to keep pressing forward.
+Welcome to Hacker Under Development where we aim to beocme better hackers. The goal of this site is to share knowledge with our readers so that they can benefit from this information as well. Most of the original content between 2015 and 2022 is focused on penetration testing or web security.
+
+In 2023, the categories were expanded to invite more authors to contribute to a wider breadth of information security topics. Previously a student's ramblings, a log of trials and tribulations, hopefully this blog will become a centralized place of learning and community for those wanting to expand their hacker mindset.
 
 - - - - - -
 
-## What I do
+# Our Authors
 
-Today, I’m a web developer at Offensive Security. I contribute to some of the websites that OffSec uses to provide you with a safe environment to practice your hacking techniques. I’d highly recommend trying [Proving Grounds](https://portal.offensive-security.com), the play offering is a free tier of the labs that allows for three hours of machine access every day. At Offensive Security I am surrounded by very talented people and this allows me to learn from some of the best educators in the industry.
+## Greenjam94 - James Green
 
-## History
+Hello, I am James Green, the original creator of Hacker Under Development. This effort has grown from a school writing assignement, digital journal, and expanded resume into a ever growing library of cyber security information. My goal is to upskill not only myself but the readers committed to hacking themselves into a better scenario. It is my hope that by writing about what I learn, it will allow me to share my journey with you while keeping me motivated to keep pressing forward.
 
-My interest in hacking initially came from Hollywood. With movies of hackers breaking into systems and having such a massive impact to a plan’s success, I knew from an early age that I was going to work with computers. I started programming while studying at Michigan State University. I graduated with a bachelor of science degree for media and information from the [college of communication arts and science](http://cas.msu.edu/) with a minor in computer science. My degree focused on web development.  
-  
-I had a student job while in college working with PHP websites. This is where I was introduced to my first hack. Someone found an SQL injection bug in one of our websites and dumped the user database on pastebin.com. I quickly took to researching web vulnerabilities and how to exploit or prevent them.
+My views expressed on this site are soley my own, they do not reflect the views of my current or past employers.
 
-My first security conference was in 2015. I [volunteered](https://www.hackerunder.dev/grrcon-2015/) at GrrCON and through talking about that I found [\#misec](https://misec.us), a group of hackers and infosec who had meetings across Michigan. When I first joined there were two physical locations (Southfield and Jackson) and an IRC server. I helped [create a chapter](https://www.hackerunder.dev/2016-in-review/) in the Lansing area and continue to help with the website. I credit most of my skills and opportunities to networking with this amazing group of individuals.
+# Guest authors
+
+## Ron & Tyler
+
+Two first time conference attendees wrote about their experiences at Bsides Harrisburg 2023.
+
+## passwordmanager.com
+
+This company reached out to collaborate and provide cross post content. One of their original articles is reposted on this site.

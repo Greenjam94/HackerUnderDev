@@ -1,12 +1,13 @@
 ---
 author: Greenjam94
 categories:
-- Walkthroughs
+- Community
 date: "2016-05-19T09:55:36Z"
 guid: https://hackerunder.dev/?p=352
 id: 352
 tags:
-- OverTheWire
+- walkthrough
+- overthewire
 
 title: 'OverTheWire: Leviathan'
 url: /overthewire-leviathan/

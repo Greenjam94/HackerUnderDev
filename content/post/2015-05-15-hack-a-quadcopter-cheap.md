@@ -6,7 +6,7 @@ date: "2015-05-15T22:22:03Z"
 guid: https://hackerunder.dev/?p=92
 id: 92
 tags:
-
+- hardware
 title: Hack a Quadcopter CHEAP!
 url: /hack-a-quadcopter-cheap/
 xyz_smap:

@@ -1,11 +1,12 @@
 ---
 author: Greenjam94
 categories:
-- Hacker101
+- Tools
 date: "2017-09-02T20:46:19Z"
 guid: https://hackerunder.dev/?p=618
 id: 618
 tags:
+- php
 - regex
 
 title: PHP Regex tutorial
