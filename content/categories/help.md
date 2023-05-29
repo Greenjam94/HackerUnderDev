@@ -19,6 +19,10 @@ Introductions to topics around legal and recommended guidelines that security pr
 
 Future predictions on new threats, trending technology, or changes in the security industry.
 
+# Programming
+
+Applying development skills to automate and scale
+
 # Threat Intelligence
 
 Updates from news articles, security research, monitoring alerts and what to take away from each.
