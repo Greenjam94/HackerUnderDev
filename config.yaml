@@ -8,7 +8,7 @@ SectionPagesMenu: main
 
 params:
   ananke_socials:
-    - name: twitter
-      url: https://twitter.com/hackerunderdev
     - name: github
       url: https://github.com/Greenjam94/HackerUnderDev
+    - name: mastodon
+      url: https://infosec.exchange/@Greenjam94
