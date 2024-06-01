@@ -43,4 +43,7 @@ Followed Hugo [quick start](https://gohugo.io/getting-started/quick-start/)
 6. Import Jekyll zip to Hugo
 
 Set up free hosting with netlify.com
+
+# References
+
 Followed gohugo.io [hosting on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
