@@ -2,6 +2,8 @@
 author: Greenjam94
 categories:
 - Uncategorized
+tags:
+- finance
 ct_period_last_updated:
 - default
 date: "2020-10-24T04:12:29Z"
